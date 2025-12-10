@@ -1,12 +1,11 @@
 {
   "name": "Statfyr Coach",
   "short_name": "Statfyr",
-  "description": "The Coach & Team Hub",
+  "description": "Coach & Team Hub",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#ea580c",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "/icon-192.png",
